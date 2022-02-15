@@ -1,4 +1,4 @@
-name: deploy-helloReact
+name: deploy-el-apps
 
 on:
   push:
